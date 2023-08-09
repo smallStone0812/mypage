@@ -10,7 +10,8 @@ Vue.prototype.$echarts = echarts;
 // 阻止启动生产消息
 Vue.config.productionTip = false
 Vue.use(ElementUI)
-
+//        < !--周振君1111 -->
+//       < !--周振君2222 -->
 new Vue({
   router,
   render: h => h(App),
